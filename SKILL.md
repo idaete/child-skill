@@ -7,7 +7,12 @@ description: >
   using Curiosity, Heuristics, Imagination, Laconic, and Deductive reasoning as a connected loop.
   Also activates when the user wants to learn, teach, or explain the CHILD framework, or asks how
   a child would approach a problem they're facing.
-license: See LICENSE in the distributed skill folder.
+license: CC BY-NC-SA 4.0
+---
+
+<!-- © Gaurav Yadav. Derived from "A Child in Us: The Creative Thinking
+     Handbook." Licensed CC BY-NC-SA 4.0. achildinus.com -->
+
 ---
 
 # /child — Think like a child. Solve like a strategist.

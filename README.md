@@ -90,11 +90,18 @@ trainable capacities that vary in strength within the same person and change wit
 This is an independent skill built by the book's author. It isn't affiliated with or endorsed by
 Anthropic, and "Claude" is a trademark of Anthropic.
 
-## License
+## Copyright & License
 
-<!-- TODO: choose one. CC BY-NC-SA 4.0 is the usual fit for framework/book content —
-     it permits sharing and adaptation with attribution while blocking commercial reuse.
-     MIT would permit anyone to repackage and sell this. -->
+*A Child in Us: The Creative Thinking Handbook* © Gaurav Yadav. 
+All rights reserved. The book, the CHILD Framework, and all content 
+derived from them remain the intellectual property of the author.
+
+The skill files in this repository are made available under 
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 
+share and adapt with attribution, non-commercially, under the same terms.
+
+This license applies to the contents of `child/` as distributed here. 
+It does not grant any rights to the book itself, in whole or in part.
 
 ## Feedback
 
